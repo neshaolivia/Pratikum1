@@ -1,1 +1,1 @@
-# Pratikum1
+# simple-app
